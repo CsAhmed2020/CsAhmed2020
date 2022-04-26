@@ -1,8 +1,7 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Ahmed Abdelrahman</h1>
 <h3 align="center">An Enthusiastic Android Developer from Egypt</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=csahmed2020" alt="csahmed2020"  width="600"/></a> <img align="right" alt="Me" width="300" src="https://pbs.twimg.com/profile_images/1503566205197725699/3M4uKLEv_400x400.jpg"> </p>
+<img align="right" alt="Me" width="300" src="https://pbs.twimg.com/profile_images/1503566205197725699/3M4uKLEv_400x400.jpg">
 
 - 🌱 I’m currently learning **Android and Java Full-Stack development**
 
