@@ -3,17 +3,17 @@
 <h3 align="center">An Enthusiastic Android Developer from Egypt</h3>
 <img align="right" alt="Me" width="300" src="https://pbs.twimg.com/profile_images/1527816790058967040/YcfIHr_d_400x400.jpg">
 
-- 🌱 I’m currently learning **Android and Java Full-Stack development**
+- 🌱 I’m **Android developer** with +1 years of experience using **java and kotlin**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/CsAhmed2020](https://github.com/CsAhmed2020)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/csahmed2020/](https://www.linkedin.com/in/csahmed2020/)
+- 📝 I regularly write articles and share my experience on [https://www.linkedin.com/in/csahmed2020/](https://www.linkedin.com/in/csahmed2020/)
 
 - 📫 How to reach me **csahmed.98.20@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/csahmed2020/overlay/1635488844049/single-media-viewer/](https://www.linkedin.com/in/csahmed2020/overlay/1635488844049/single-media-viewer/)
+- 📄 Know about my experiences from my CV https://bit.ly/3sl4GEm
 
 - ⚡ Fun fact **I am England Premier league big fan**
 
