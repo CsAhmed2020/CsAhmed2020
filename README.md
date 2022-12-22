@@ -7,13 +7,15 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 👨‍💻 All of my projects are available here https://github.com/CsAhmed2020?tab=repositories
+- 👨‍💻 All of my projects are available here [CsAhmed2020](https://github.com/CsAhmed2020?tab=repositories)
 
-- 📝 I regularly write articles and share my experience on [https://www.linkedin.com/in/csahmed2020/](https://www.linkedin.com/in/csahmed2020/)
+- 👨‍💻 Some of my projects presentations here [MyApps](shorturl.at/yAW06)
+
+- 📝 I regularly write articles and share my experience on [linkedin/csahmed2020/](https://www.linkedin.com/in/csahmed2020/)
 
 - 📫 How to reach me **csahmed.98.20@gmail.com**
 
-- 📄 Know about my experiences from my CV https://bit.ly/3sl4GEm
+- 📄 Know about my experiences from my CV [Ahmed Abdulrahman](https://bit.ly/3sl4GEm)
 
 - ⚡ Fun fact **I am England Premier league big fan**
 
