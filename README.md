@@ -1,9 +1,10 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Ahmed Abdelrahman</h1>
-<h3 align="center">An Enthusiastic Android Developer from Egypt</h3>
+<h3 align="center">An Enthusiastic Mobile Developer from Egypt</h3>
 <img align="right" alt="Me" width="300" src="https://pbs.twimg.com/profile_images/1527816790058967040/YcfIHr_d_400x400.jpg">
 
 - 🌱 I’m **Android developer** with +1 years of experience using **java and kotlin**
+- 🌱 I have a flexible experience in **flutter and kotlin multi-platform**.
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
