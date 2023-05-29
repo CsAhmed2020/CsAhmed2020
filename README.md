@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 👨‍💻 All of my projects are available here [CsAhmed2020](https://github.com/CsAhmed2020?tab=repositories)
+- 👨‍💻 Some of my projects are available here [CsAhmed2020](https://github.com/CsAhmed2020?tab=repositories)
 
 - 👨‍💻 Some of my projects presentations here [Portfolio](https://drive.google.com/file/d/1j76vu329FM_fTa1ET_P3ATcEaVCy5PKu/view?usp=share_link)
 
