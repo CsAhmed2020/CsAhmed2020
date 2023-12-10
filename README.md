@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **csahmed.98.20@gmail.com**
 
-- 📄 Know about my experiences from my CV [Ahmed Abdulrahman](https://drive.google.com/file/d/1TS0Bdzw84BYbMeP0CACKLb6SLem-Jsg7/view?usp=drive_link)
+- 📄 Know about my experiences from my CV [Ahmed Abdulrahman](https://drive.google.com/file/d/1TS0Bdzw84BYbMeP0CACKLb6SLem-Jsg7/view)
 
 - ⚡ Fun fact **I am England Premier league big fan**
 
