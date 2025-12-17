@@ -3,7 +3,7 @@
 <h3 align="center">An Enthusiastic Mobile Developer from Egypt</h3>
 <img align="right" alt="Me" width="300" src="https://pbs.twimg.com/profile_images/1527816790058967040/YcfIHr_d_400x400.jpg">
 
-- 🌱 I’m **Android developer** with +1 years of experience using **java and kotlin**
+- 🌱 I’m **Mobile developer** with +4 years of experience using **java and kotlin**
 - 🌱 I have a flexible experience in **flutter and kotlin multi-platform**.
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **csahmed.98.20@gmail.com**
 
-- 📄 Know about my experiences from my CV [Ahmed Abdulrahman](https://drive.google.com/file/d/1TS0Bdzw84BYbMeP0CACKLb6SLem-Jsg7/view)
+- 📄 Know about my experiences from my CV [Ahmed Abdulrahman](https://drive.google.com/file/d/13kwZuSj-OTeM72QDHgxkM47n5G82JQhx/view?usp=sharing)
 
 - ⚡ Fun fact **I am England Premier league big fan**
 
